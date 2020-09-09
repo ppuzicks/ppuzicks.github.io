@@ -9,7 +9,7 @@ title: "post title"
 tags: [tag1, tag2, tag3]
 comments: true
 typora-root-url: ../
-typora-copy-images-to: ../assets/images/${filename}
+typora-copy-images-to: ../images/
 ---
 ```
 
