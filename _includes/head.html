@@ -4,6 +4,10 @@
   {% include meta.html %}
   {% include fonts.html %}
 
+  {% if site.facebook_app_id %}
+  <meta property="fb:app_id" content="{{ facebook_app_id }}" />
+  {% endif %}
+  
   <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->

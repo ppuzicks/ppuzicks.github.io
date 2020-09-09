@@ -57,6 +57,9 @@ footer-text: © 2020 ppuzicks
 # You can find your shortname on the Settings page of your Disqus account
 disqus: ppuzicks #.disqus.com
 
+# for Facebook comment
+facebook_app_id: 667706740792762
+
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
